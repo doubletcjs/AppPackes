@@ -1,0 +1,192 @@
+{
+  "-  个人安全 -": [
+    {
+      "id": 0,
+      "name": "地方预警",
+      "icon": "equities_0@2x.png",
+      "count": "",
+      "introduction": "根据大数据监控预测分析，使用者定位位置范围内可能出现的突发危机事件.",
+      "free": true
+    },
+    {
+      "id": 1,
+      "name": "国际预警",
+      "icon": "equities_1@2x.png",
+      "count": "",
+      "introduction": "国际重大事件推送，包括不限于政策、疫情防控、自然灾害、爆发战争等.",
+      "free": true
+    },
+    {
+      "id": 2,
+      "name": "社区服务",
+      "icon": "equities_2@2x.png",
+      "count": "",
+      "introduction": "基于定位半径100公里范围内分享文字和图片，可作回复及点赞，不可添加好友.",
+      "free": false
+    },
+    {
+      "id": 3,
+      "name": "信息上报",
+      "icon": "equities_3@2x.png",
+      "count": "",
+      "introduction": "可将当前发生的突发事件、本程序报错、VIP开通、救援等信息通过此渠道上报.",
+      "free": false
+    },
+    {
+      "id": 4,
+      "name": "安全咨询",
+      "icon": "equities_5@2x.png",
+      "count": "",
+      "introduction": "当前的身体、环境、资产安全等可通过助手功能向客服咨询.",
+      "free": false
+    },
+    {
+      "id": 5,
+      "name": "安全评估",
+      "icon": "equities_6@2x.png",
+      "count": "",
+      "introduction": "当前的身体、环境、资产安全等可通过助手功能向客服咨询及评估.",
+      "free": false
+    },
+    {
+      "id": 6,
+      "name": "海外保护",
+      "icon": "equities_7@2x.png",
+      "count": "1级",
+      "introduction": "遭遇危及自身安全的情况下，可在个人页面内点击紧急救援，软件即时锁定，同时位置及录音等信息会发送到服务器，即刻派出团队进行救援.",
+      "free": false
+    },
+    {
+      "id": 7,
+      "name": "危机处置",
+      "icon": "equities_9@2x.png",
+      "count": "",
+      "introduction": "专业团队负责，协助处理企业危机、人身危机、给各类危机事件提供咨询及处理办法.",
+      "free": false
+    },
+    {
+      "id": 8,
+      "name": "在线问诊",
+      "icon": "equities_15@2x.png",
+      "count": "1次",
+      "introduction": "可在线根据自身身体状况对专业医生进行一对一问诊.",
+      "free": false
+    },
+    {
+      "id": 9,
+      "name": "绿色就医通道",
+      "icon": "equities_16@2x.png",
+      "count": "3次",
+      "introduction": "定制专属海外就医绿道，可凭身份享受专家预约、住院预约、签证辅助、医学资料收集、病历翻译以及海外陪同等就医服务.",
+      "free": false
+    },
+    {
+      "id": 10,
+      "name": "海外转诊",
+      "icon": "equities_17@2x.png",
+      "count": "",
+      "introduction": "结合患者病情,精准匹配全世界最顶尖的医疗机构和专家,协助患者对既定的海外医疗服务进行预约、签证代办、医学翻译、就诊陪同、生活安排等一站式服务。",
+      "free": false
+    },
+    {
+      "id": 11,
+      "name": "机场VIP通道",
+      "icon": "equities_18@2x.png",
+      "count": "",
+      "introduction": "覆盖大部分国家机场的贵宾通道，可快速进行安检登机.",
+      "free": false
+    },
+    {
+      "id": 12,
+      "name": "法务咨询",
+      "icon": "equities_10@2x.png",
+      "count": "1次",
+      "introduction": "高效率精英团队，提供专业的法律意见，一对一解决您的法务咨询问题.",
+      "free": false
+    },
+    {
+      "id": 13,
+      "name": "机场警卫接送",
+      "icon": "equities_21@2x.png",
+      "count": "1次",
+      "introduction": "由武装警卫组成的队伍为您进行机场接送。",
+      "free": false
+    },
+    {
+      "id": 14,
+      "name": "包机服务",
+      "icon": "equities_22@2x.png",
+      "count": "",
+      "introduction": "特殊条件需要下，为您提供整机包机服务。",
+      "free": false
+    }
+  ],
+  "-  财产安全  -": [
+    {
+      "id": 15,
+      "name": "资产处置",
+      "icon": "equities_8@2x.png",
+      "count": "",
+      "introduction": "专业团队负责，提供不良贷款回收、资产处置、置换、转让、咨询等服务.",
+      "free": false
+    },
+    {
+      "id": 16,
+      "name": "企业情报",
+      "icon": "equities_13@2x.png",
+      "count": "",
+      "introduction": "围绕企业境外需求，对周边环境、竞争对手、市场情况进行全面调查，为企业提供重要决策依据.",
+      "free": false
+    },
+    {
+      "id": 17,
+      "name": "反舞弊调查",
+      "icon": "equities_12@2x.png",
+      "count": "",
+      "introduction": "针对腐败型、侵财型和财报型等各类舞弊，对员工侵害公司企业合法权益的不忠诚行为进行的调查、取证和处置，通过查明事实、明确责任，为公司企业高层的最终处理确立主动权.",
+      "free": false
+    },
+    {
+      "id": 18,
+      "name": "企业案件调查",
+      "icon": "equities_14@2x.png",
+      "count": "",
+      "introduction": "对舞弊等案件进行调查取证，对企业异常信息进行收集分析，最终形成完整的证据链.",
+      "free": false
+    }
+  ],
+  "-  数据安全  -": [
+    {
+      "id": 19,
+      "name": "应急子账号",
+      "icon": "equities_19@2x.png",
+      "count": "",
+      "introduction": "为您提供一个应急专用的功能受限子账号.",
+      "free": false
+    },
+    {
+      "id": 20,
+      "name": "加密通道",
+      "icon": "equities_4@2x.png",
+      "count": "",
+      "introduction": "助理、通讯等所有资料信息被分配到加密通道里传送，确保安全保密性.",
+      "free": true
+    },
+    {
+      "id": 21,
+      "name": "信息安全",
+      "icon": "equities_11@2x.png",
+      "count": "",
+      "introduction": "全平台各环节均使用国内服务器及加密通道传输，并配有PIN码锁、一键销毁记录等安全功能.",
+      "free": false
+    },
+    {
+      "id": 22,
+      "name": "子副账号",
+      "icon": "equities_20@2x.png",
+      "count": "",
+      "introduction": "同时提供功能受限子账号和全功能副账号各一个.",
+      "free": false
+    }
+  ]
+}
